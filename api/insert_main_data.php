@@ -11,11 +11,11 @@ header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: POST');
 
 // ── Konfigurasi Database ─────────────────────────────────────
-define('DB_HOST', 'mysql.railway.internal');
+define('DB_HOST', 'acela.proxy.rlwy.net');
 define('DB_NAME', 'railway');
 define('DB_USER', 'root');         
-define('DB_PASS', 'KpzJpzjTbZQtWPFBgwYbhMTisCCuWkUV');             
-define('DB_PORT', 3306);
+define('DB_PASS', 'UsIraRYprgOvirnWYEXQzRLeHmLXkXDy');             
+define('DB_PORT', 52524);
 // ─────────────────────────────────────────────────────────────
 
 // Hanya terima method POST
