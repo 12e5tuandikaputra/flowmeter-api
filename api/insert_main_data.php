@@ -11,7 +11,7 @@ header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: POST');
 
 // ── Konfigurasi Database ─────────────────────────────────────
-define('DB_HOST', 'acela.proxy.rlwy.net');
+define('DB_HOST', 'mysql-production-c24d5.up.railway.app');
 define('DB_NAME', 'railway');
 define('DB_USER', 'root');         
 define('DB_PASS', 'UsIraRYprgOvirnWYEXQzRLeHmLXkXDy');             
