@@ -15,7 +15,7 @@ define('DB_HOST', 'acela.proxy.rlwy.net');
 define('DB_NAME', 'railway');
 define('DB_USER', 'root');         
 define('DB_PASS', 'UsIraRYprgOvirnWYEXQzRLeHmLXkXDy');             
-define('DB_PORT', 52524);
+define('DB_PORT', 3306);
 // ─────────────────────────────────────────────────────────────
 
 // Hanya terima method POST
