@@ -11,9 +11,9 @@ header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: POST');
 
 // ── Konfigurasi Database ─────────────────────────────────────
-define('DB_HOST', 'sql202.infinityfree.com');
-define('DB_NAME', 'if0_42156064_flowmeter');
-define('DB_USER', 'if0_42156064');
+define('DB_HOST', 'musql.railway.internal');
+define('DB_NAME', 'railway');
+define('DB_USER', 'root');
 define('DB_PASS', 'flowmeterengspt');
 define('DB_PORT', 3306);
 // ─────────────────────────────────────────────────────────────
