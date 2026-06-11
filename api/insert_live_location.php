@@ -14,7 +14,7 @@ header('Access-Control-Allow-Methods: POST');
 define('DB_HOST', 'musql.railway.internal');
 define('DB_NAME', 'railway');
 define('DB_USER', 'root');
-define('DB_PASS', 'flowmeterengspt');
+define('DB_PASS', 'KpzJpzjTbZQtWPFBgwYbhMTisCCuWkUV');
 define('DB_PORT', 3306);
 // ─────────────────────────────────────────────────────────────
 
